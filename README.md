@@ -21,8 +21,7 @@ The fluent.conf file contains configuration and comments which accomplish the fo
 3 - Copies the contents of the 'log' field to 'message' in order for enhanced visibility in Kibana discover page<br />
 4 - Drops unnecessary fields (including the log field and unnecessary container metadata)<br />
 
-<b>TODO<br /></b>b>
-1 - Route to different sub-accounts<br />
-2 - Setup and test multi-line messages<br />
-3 - Clean up cont_meta_data json parsing<br />
+<b>TODO<br /></b></b>
+1 - Clean up cont_meta_data json parsing<br />
+2 - Add more multi-line examples<br />
 
