@@ -1,0 +1,8 @@
+2018-03-08 17:56:09,622 [myid:]	Exception in thread "main" java.lang.NullPointerException
+        at com.example.myproject.Book.getTitle(Book.java:16)
+        at com.example.myproject.Author.getBookTitles(Author.java:25)
+        at com.example.myproject.Bootstrap.main(Bootstrap.java:14)
+2018-03-08 17:56:10,622 [myid:]	Exception in thread "main" java.lang.NullPointerException
+        at com.example.myproject.Book.getTitle(Book.java:16)
+        at com.example.myproject.Author.getBookTitles(Author.java:25)
+        at com.example.myproject.Bootstrap.main(Bootstrap.java:14)
